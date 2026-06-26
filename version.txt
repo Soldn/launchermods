@@ -1,1 +1,2 @@
-v1.0.8
+betta test: v1.0.0
+premium: v1.0.0
